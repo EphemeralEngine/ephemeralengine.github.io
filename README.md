@@ -40,7 +40,7 @@
 ### Animation:
 
 <div class="scrollmenu">
-  <video width="320" height="240" autoplay>
+  <video width="320" height="240" autoplay loop>
     <source src="3.7 montage.02.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
