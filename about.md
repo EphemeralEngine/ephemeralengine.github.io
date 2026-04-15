@@ -1,5 +1,6 @@
 ---
 theme: jekyll-theme-dinky
+remote_theme: pages-themes/dinky@v0.2.0
 layout: page
 title: "ABOUT"
 permalink: /about
