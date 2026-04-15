@@ -3,8 +3,10 @@
 ### Portraits:
 
 <div class="scrollmenu">
-  <img src="assets/images/Arvul.png" alt="Portrait of a Dragon" width="300" height="300">
-  
+  <a href="/contact">
+     <img src="assets/images/Arvul.png" alt="Portrait of a Dragon" width="300" height="300">
+  </a>
+ 
   <img src="assets/images/Cyntera.png" alt="Portrait of an Elf" width="300" height="300">
   
   <img src="assets/images/Duncan.png" alt="Portrait of a Man Painting" width="300" height="300">
@@ -26,7 +28,7 @@
 
   <img src="assets/images/Rosy Maple Moth Business Card.jpg" alt="Rosy Maple Moth Business Card2" width="500" height="300">
 
-  <img src="Love Is Never Wasted.png" alt="Love Is Never Wasted" width="500" height="300">
+  <img src="Love Is Never Wasted.png" alt="Love Is Never Wasted" width="300" height="300">
 </div>
 
 ### Illustration:
