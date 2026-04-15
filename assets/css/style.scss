@@ -332,9 +332,9 @@ section {
 /* Horizontal scroll? */
 div.scrollmenu {
   background-color: #ffffff;
-  overflow: auto;
+  overflow: scroll;
   white-space: nowrap;
-  width: 2000px;
+  width: 960px;
 }
 
 div.scrollmenu a {
