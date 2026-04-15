@@ -9,7 +9,7 @@
   
   <img src="assets/images/Duncan.png" alt="Portrait of a Man Painting" width="300" height="300">
 
-  <img src="assets/images/Stedd.png" alt="Portrait of a Ghostly Boxer" width="300" height="300">
+  <img src="assets/images/Stedd.png" alt="Ghost" width="300" height="300">
 </div>
 
 
@@ -20,9 +20,9 @@
   
   <img src="assets/images/Monarch Butterfly Business Card2.jpg" alt="Monarch Butterfly Business Card Back.jpg" width="500" height="300">
   
-  <img src="assets/images/Rosy Maple Moth Business Card.png" alt="Rosy Maple Moth Business Card" width="500" height="300">
+  <img src="assets/images/Rosy Maple Moth Business Card Front.jpg" alt="Rosy Maple Moth Business Card" width="500" height="300">
 
-  <img src="assets/images/Rosy Maple Moth Business Card2.png" alt="Rosy Maple Moth Business Card2" width="500" height="300">
+  <img src="assets/images/Rosy Maple Moth Business Card.jpg" alt="Rosy Maple Moth Business Card2" width="500" height="300">
 </div>
 
 
