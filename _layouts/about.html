@@ -1,1 +1,47 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+{% seo %}
+    <link rel="stylesheet" href="{{ 'css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+
+        <ul>
+          <li><a class="buttons github" href="https://ephemeralengine.github.io/">My Work</a></li>
+        </ul>
+
+          <ul>
+            <li><a class="buttons github" href="https://ephemeralengine.github.io/about">About Me</a></li>
+          </ul>
+
+          <ul>
+            <li><a class="buttons github" href="https://ephemeralengine.github.io/contact">Contact</a></li>
+          </ul>
+      </header>
+
+      <section>
+        <h1 class="header">{{ welcome to my website }}</h1>
+        {{ content }}
+        <img src="monarch.jpg" alt="Butterfly">
+      </section>
+
+      <footer>
+        <p><small><a href="https://ephemeralengine.github.io/contact">Contact me </a> henstovart@gmail.com </small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+  </body>
+</html>
