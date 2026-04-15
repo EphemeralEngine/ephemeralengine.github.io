@@ -9,7 +9,9 @@
   
   <img src="assets/images/Duncan.png" alt="Portrait of a Man Painting" width="300" height="300">
 
-  <img src="assets/images/Stedd.png" alt="Ghost" width="300" height="300">
+  <img src="Stedd.png" alt="Ghost" width="300" height="300">
+
+  <img src="assets/images/Monarch.jpg" alt="Butterfly Businessman" height="300">
 </div>
 
 
@@ -23,6 +25,23 @@
   <img src="assets/images/Rosy Maple Moth Business Card Front.jpg" alt="Rosy Maple Moth Business Card" width="500" height="300">
 
   <img src="assets/images/Rosy Maple Moth Business Card.jpg" alt="Rosy Maple Moth Business Card2" width="500" height="300">
+
+  <img src="assets/images/Love Is Never Wasted.png" alt="Love Is Never Wasted" width="500" height="300">
+</div>
+
+### Illustration:
+
+<div class="scrollmenu">
+  <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="500" height="500">
+</div>
+
+### Animation:
+
+<div class="scrollmenu">
+  <video width="320" height="240" controls>
+    <source src="3.7 montage.02.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 
