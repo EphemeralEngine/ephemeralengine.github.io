@@ -26,7 +26,7 @@
 
   <img src="assets/images/Rosy Maple Moth Business Card.jpg" alt="Rosy Maple Moth Business Card2" width="500" height="300">
 
-  <img src="assets/images/Love Is Never Wasted.png" alt="Love Is Never Wasted" width="500" height="300">
+  <img src="Love Is Never Wasted.png" alt="Love Is Never Wasted" width="500" height="300">
 </div>
 
 ### Illustration:
