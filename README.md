@@ -15,7 +15,7 @@
   </video>
 </div>
 
-### Illustation:
+### Illustration:
 
 <div class="scrollmenu">
   <a href="/portraits">
