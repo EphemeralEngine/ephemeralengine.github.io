@@ -6,7 +6,7 @@ permalink: /contact
 
 # Contact Me
 
-Until I get my website updated with a fancy form, you can email me at henstovart@gmail.com.
+Until I get my website updated with a fancy form, you can email me at [henstovart@gmail.com](mailto:henstovart@gmail.com).
 
 ## Thank you for your patience.
 
