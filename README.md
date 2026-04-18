@@ -20,6 +20,9 @@
 <div class="scrollmenu">
   <a href="/portraits">
     <img src="assets/videos/Portraits.gif" alt="Portraits" width="300" height="300">
+    <div class="tooltip-content">
+     Portraits
+    </div> 
   </a>
   
   <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="300" height="300">
