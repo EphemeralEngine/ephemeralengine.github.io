@@ -4,13 +4,13 @@
 
 <div class="scrollmenu">
 
-  <video autoplay loop>
-    <source src="assets/videos/ComeOneComeAllLoop2_1.mp4" type="video/mp4">
+  <video width="320" height="240" autoplay loop>
+    <source src="assets/videos/3.7 montage.02.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   
-  <video width="320" height="240" autoplay loop>
-    <source src="assets/videos/3.7 montage.02.mp4" type="video/mp4">
+  <video width="320" height="900"  autoplay loop>
+    <source src="assets/videos/ComeOneComeAllLoop2_1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -19,7 +19,7 @@
 
 <div class="scrollmenu">
   <a href="/portraits">
-    <img src="assets/vides/Portraits.gif" alt="Portraits" width="300" height="300">
+    <img src="assets/videos/Portraits.gif" alt="Portraits" width="300" height="300">
   </a>
   
   <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="300" height="300">
