@@ -3,6 +3,12 @@
 ### Animation:
 
 <div class="scrollmenu">
+
+  <video width="240" height="320" autoplay loop>
+    <source src="assets/videos/ComeOneComeAllLoop2_1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
   <video width="320" height="240" autoplay loop>
     <source src="assets/videos/3.7 montage.02.mp4" type="video/mp4">
     Your browser does not support the video tag.
