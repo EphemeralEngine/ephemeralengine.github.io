@@ -9,7 +9,7 @@
     Your browser does not support the video tag.
   </video>
   
-  <video width="320" height="900"  autoplay loop>
+  <video width="320"  autoplay loop>
     <source src="assets/videos/ComeOneComeAllLoop2_1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
