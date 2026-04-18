@@ -6,7 +6,7 @@
   <a href="/portraits">
      <img src="assets/images/Arvul.png" alt="Portrait of a Dragon" width="300" height="300">
   </a>
-
+  
   <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="300" height="300">
 
   <img src="assets/images/Monarch.jpg" alt="Butterfly Businessman" height="300">
@@ -24,14 +24,14 @@
 
   <img src="assets/images/Rosy Maple Moth Business Card.jpg" alt="Rosy Maple Moth Business Card2" width="500" height="300">
 
-  <img src="Love Is Never Wasted.png" alt="Love Is Never Wasted" width="300" height="300">
+  <img src="assets/images/Love Is Never Wasted.png" alt="Love Is Never Wasted" width="300" height="300">
 </div>
 
 ### Animation:
 
 <div class="scrollmenu">
   <video width="320" height="240" autoplay loop>
-    <source src="3.7 montage.02.mp4" type="video/mp4">
+    <source src="assets/videos/3.7 montage.02.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
