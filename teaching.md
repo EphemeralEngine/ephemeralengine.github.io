@@ -1,3 +1,19 @@
+---
+layout: default
+title: "Art Classes"
+permalink: /teaching
+---
+
+# Contact Me
+
+Until I get my website updated with a fancy form, you can email me at [henstovart@gmail.com](mailto:henstovart@gmail.com).
+
+## Thank you for your patience.
+
+> 
+> "Good things come to those who wait. But even better things come to those who email Henry now and commission him to make something!"
+> 
+
 # Media Arts Classes
 
 I have worked in Art and Design education outside of traditional classrooms for the past 5 years with a focus on teaching teens fundamental media arts skills.
