@@ -19,10 +19,7 @@
 
 <div class="scrollmenu">
   <a href="/portraits">
-    <video width="300" height="300" autoplay loop>
-    <source src="assets/videos/Portraits.gif" type="video/gif">
-    Your browser does not support the video tag.
-    </video>
+    ![Portraits](assets/videos/Portraits.gif){ .image25percent }
   </a>
   
   <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="300" height="300">
