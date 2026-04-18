@@ -4,7 +4,7 @@
 
 <div class="scrollmenu">
 
-  <video width="240" height="320" autoplay loop>
+  <video autoplay loop>
     <source src="assets/videos/ComeOneComeAllLoop2_1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -19,7 +19,7 @@
 
 <div class="scrollmenu">
   <a href="/portraits">
-    ![Portraits](assets/videos/Portraits.gif){ .image25percent }
+    <img src="assets/vides/Portraits.gif" alt="Portraits" width="300" height="300">
   </a>
   
   <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="300" height="300">
