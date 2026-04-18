@@ -1,4 +1,4 @@
-# HENRY STOVER PORTFOLIO
+# Henry Stover's Portfolio
 
 ### Portraits:
 
