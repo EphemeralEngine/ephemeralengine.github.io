@@ -19,7 +19,10 @@
 
 <div class="scrollmenu">
   <a href="/portraits">
-     <img src="assets/videos/Portraits.gif" alt="Portraits width="300" height="300">
+    <video width="300" height="300" autoplay loop>
+    <source src="assets/videos/Portraits.gif" type="video/gif">
+    Your browser does not support the video tag.
+    </video>
   </a>
   
   <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="300" height="300">
