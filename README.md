@@ -1,17 +1,13 @@
 # Henry Stover's Portfolio
 
-### Portraits:
+### Illustation:
 
 <div class="scrollmenu">
-  <a href="/contact">
+  <a href="/portraits">
      <img src="assets/images/Arvul.png" alt="Portrait of a Dragon" width="300" height="300">
   </a>
- 
-  <img src="assets/images/Cyntera.png" alt="Portrait of an Elf" width="300" height="300">
-  
-  <img src="assets/images/Duncan.png" alt="Portrait of a Man Painting" width="300" height="300">
 
-  <img src="Stedd.png" alt="Ghost" width="300" height="300">
+  <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="300" height="300">
 
   <img src="assets/images/Monarch.jpg" alt="Butterfly Businessman" height="300">
 </div>
@@ -29,12 +25,6 @@
   <img src="assets/images/Rosy Maple Moth Business Card.jpg" alt="Rosy Maple Moth Business Card2" width="500" height="300">
 
   <img src="Love Is Never Wasted.png" alt="Love Is Never Wasted" width="300" height="300">
-</div>
-
-### Illustration:
-
-<div class="scrollmenu">
-  <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="500" height="500">
 </div>
 
 ### Animation:
