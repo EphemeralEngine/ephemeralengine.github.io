@@ -6,10 +6,12 @@ permalink: /eterna
 
 # Eterna
 
-  <img src="assets/images/SmallRat" alt="Small Rat eating Bread" width="300" height="300">
+Illustrations for a tabletop role playing game in a fantasy world.
 
-  <img src="assets/images/MediumRat" alt="Large Rat Standing on a Barrel" width="300" height="300">
+  <img src="assets/images/SmallRat.png" alt="Small Rat eating Bread" width="300" height="300">
 
-  <img src="assets/images/TenebrisRat" alt="Giant Corrupted Rat" width="300" height="300">
+  <img src="assets/images/MediumRat.png" alt="Large Rat Standing on a Barrel" width="300" height="300">
 
-  <img src="assets/images/BigFlower" alt="Large Flower" width="300" height="300">
+  <img src="assets/images/TenebrisRat.jpeg" alt="Giant Corrupted Rat" width="300" height="300">
+
+  <img src="assets/images/BigFlower.png" alt="Large Flower" width="300" height="300">
