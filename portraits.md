@@ -12,4 +12,4 @@ permalink: /portraits
   
   <img src="assets/images/Duncan.png" alt="Portrait of a Man Painting" width="300" height="300">
 
-  <img src="Stedd.png" alt="Ghost" width="300" height="300">
+  <img src="assets/images/Stedd.png" alt="Ghost" width="300" height="300">
