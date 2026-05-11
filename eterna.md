@@ -4,7 +4,7 @@ title: "ETERNA"
 permalink: /eterna
 ---
 
-# Portraits
+# Eterna
 
   <img src="assets/images/SmallRat" alt="Small Rat eating Bread" width="300" height="300">
 
