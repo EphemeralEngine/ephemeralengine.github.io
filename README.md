@@ -24,6 +24,13 @@
      Portraits
     </div> 
   </a>
+
+  <a href="/eterna">
+    <img src="assets/videos/Flower.gif" alt="Eterna" width="300" height="300">
+    <div class="tooltip-content">
+     Enter Eterna
+    </div> 
+  </a>
   
   <img src="assets/images/Darng Beetle.png" alt="Darng Beetle" width="300" height="300">
 
