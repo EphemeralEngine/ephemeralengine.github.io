@@ -26,7 +26,7 @@
   </a>
 
   <a href="/eterna">
-    <img src="assets/videos/Flower.gif" alt="Eterna" width="300" height="300">
+    <img src="assets/videos/Flower.gif" alt="Eterna" width="450" height="300">
     <div class="tooltip-content">
      Enter Eterna
     </div> 
