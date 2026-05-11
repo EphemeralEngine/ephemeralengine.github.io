@@ -20,4 +20,4 @@ Illustrations for a tabletop role playing game in a fantasy world.
 
   <img src="assets/images/Eterna_Hetay.PNG" alt="Warrior" width="300" height="300">
 
-  <img src="assets/images/Eterna_Edith.png" alt="Scientist" width="300" height="300">
+  <img src="assets/images/Eterna_Edith.PNG" alt="Scientist" width="300" height="300">
